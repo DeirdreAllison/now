@@ -1,5 +1,5 @@
 # Now
-Based off a blog post I wrote, here is what I am up to (also s/o to [Austin Kleon](http://austinkleon.com/) who planted the seed in my head by posting artists who have a page on their portfolio sites with what they're up to right now).
+Based off a blog post I wrote, here is what I am up to (s/o to [Austin Kleon](http://austinkleon.com/) who planted the seed in my head by posting artists who have a page on their portfolio sites with what they're up to right now).
 
 ## 2016
 * I'm currently building a new website for a game company using JSP, HTML and CSS. Eventually, the website will need to hook into a payment system and CMS like functionality is on the wish list.
